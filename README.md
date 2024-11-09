@@ -8,3 +8,10 @@
 # Backup of network  or dhcp
 脚本特点：
 备份配置文件，然后进行所需的配置修改
+
+# distfeeds.sh
+使用方法
+将上述内容保存为 distfeeds.sh。
+通过 SSH 登录到你的 OpenWRT 路由器。
+使用命令 chmod +x change_distfeeds.sh 使脚本可执行。
+运行脚本：./distfeeds.sh。
