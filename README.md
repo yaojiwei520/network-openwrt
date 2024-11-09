@@ -5,3 +5,6 @@
 等待 3 秒后重启 dnsmasq 服务。
 再等待 3 秒后重启网络服务。
 
+# Backup of network  or dhcp
+脚本特点：
+备份配置文件，然后进行所需的配置修改
